@@ -1,3 +1,3 @@
 # golang.news
 
-Just See Issues!
+Just Click Issues!
